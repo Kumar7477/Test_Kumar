@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SunopsisExport>
 <Admin RepositoryVersion="05.02.02.05" IsLegacyIdCompatible="false" />
-<Encryption algorithm="AES" keyLength="128" exportKeyHash="" keyVect="F32J6dQFVGLfrhs1AUFQ5g==" exportKeySalt="d114a6aa-1e42-4b71-b632-f45e89df9535" containsCipherText="false"/>
+<Encryption algorithm="AES" keyLength="128" exportKeyHash="" keyVect="TYos9Jlo6zaSCeJc8dvAaw==" exportKeySalt="39dc9885-597f-4984-890a-2ffb961ab15f" containsCipherText="false"/>
 <Object class="com.sunopsis.dwg.dbobj.SnpFolder">
 		<Field name="ExtVersion" type="java.lang.String">null</Field>
 	<Field name="FirstDate" type="java.sql.Timestamp"><![CDATA[2018-02-23 14:18:14.0]]></Field>
@@ -12,7 +12,7 @@
 	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
 	<Field name="IFolder" type="com.sunopsis.sql.DbInt"><![CDATA[72]]></Field>
 	<Field name="IProject" type="com.sunopsis.sql.DbInt"><![CDATA[11]]></Field>
-	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2018-02-23 16:18:55.0]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2018-02-26 16:15:29.0]]></Field>
 	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="OrdFolder" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="ParIFolder" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
@@ -24,7 +24,7 @@
 	<Field name="SubType" type="java.lang.String"><![CDATA[N]]></Field>
 	<Field name="Name" type="java.lang.String"><![CDATA[m_Simple_CDC]]></Field>
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[bea63871-f10b-49d0-81ef-c0caf0d41117]]></Field>
-	<Field name="Version" type="java.lang.String"><![CDATA[b1ab47f378c420c4d9c664a312383caf8a2b3d41]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[f930004c50f57419040cba9d56511b096ef8093f]]></Field>
 	<Field name="Path" type="java.lang.String"><![CDATA[Mappings/MAP_m_Simple_CDC.xml]]></Field>
 </Object>
 <Object class="com.sunopsis.dwg.dbobj.SnpFKXRef">
